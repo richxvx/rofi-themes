@@ -1,9 +1,9 @@
 
-* {    
+* {
     background:                  rgba ( 53, 59, 69, 100 % );
-	selected-item:  			 rgba ( 80, 83, 105, 100 % );	
+    selected-item:               rgba ( 80, 83, 105, 100 % );
     foreground:                  rgba ( 193, 193, 193, 100 % );
-	selected-normal-foreground:  rgba ( 255, 255, 255, 100 % );
+    selected-normal-foreground:  rgba ( 255, 255, 255, 100 % );
     normal-foreground:           @foreground;
     alternate-normal-background: rgba ( 37, 37, 37, 100 % );
     red:                         rgba ( 220, 50, 47, 100 % );
